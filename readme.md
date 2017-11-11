@@ -1,0 +1,1 @@
+This is Lindsay Godsey's first git project!
